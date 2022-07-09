@@ -2,8 +2,6 @@
 
 やあ。MogiCasherをReactで作り直してみたんだ。なんでそんなことをしてるのかって？とにかくVanillaのJavascriptが大嫌いだからなんだ。
 
-https://github.com/DarthRommy/Mogi_Casher-HTML
-
 # 使い方
 
 こちらは本体のように、いえ、本体よりも使いやすいソフトになっております。

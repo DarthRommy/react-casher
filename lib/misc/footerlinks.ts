@@ -14,7 +14,7 @@ export const footerLinks: FooterLink[] = [
   },
   {
     label: "本体の取説",
-    url: "https://react-casher.dev.app",
+    url: "https://readmejs.vercel.app",
   },
   {
     label: "本体のGitHub",
